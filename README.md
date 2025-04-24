@@ -5,6 +5,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/marwan130/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/marwan130/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/marwan130/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0948-sort-an-array](https://github.com/marwan130/Leetcode/tree/master/0948-sort-an-array) |
 ## Two Pointers
 |  |
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/marwan130/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/marwan130/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/marwan130/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
