@@ -4,6 +4,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/marwan130/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0056-merge-intervals](https://github.com/marwan130/Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/marwan130/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/marwan130/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0777-toeplitz-matrix](https://github.com/marwan130/Leetcode/tree/master/0777-toeplitz-matrix) |
@@ -15,6 +16,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/marwan130/Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/marwan130/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/marwan130/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0948-sort-an-array](https://github.com/marwan130/Leetcode/tree/master/0948-sort-an-array) |
