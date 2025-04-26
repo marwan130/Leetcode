@@ -11,6 +11,7 @@
 | [0777-toeplitz-matrix](https://github.com/marwan130/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0948-sort-an-array](https://github.com/marwan130/Leetcode/tree/master/0948-sort-an-array) |
 | [1127-last-stone-weight](https://github.com/marwan130/Leetcode/tree/master/1127-last-stone-weight) |
+| [1706-min-cost-to-connect-all-points](https://github.com/marwan130/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 ## Two Pointers
 |  |
 | ------- |
@@ -95,4 +96,16 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/marwan130/Leetcode/tree/master/0054-spiral-matrix) |
+## Union Find
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/marwan130/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
+## Graph
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/marwan130/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/marwan130/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
