@@ -3,6 +3,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/marwan130/Leetcode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/marwan130/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0054-spiral-matrix](https://github.com/marwan130/Leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/marwan130/Leetcode/tree/master/0056-merge-intervals) |
@@ -87,6 +88,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/marwan130/Leetcode/tree/master/0001-two-sum) |
 | [0451-sort-characters-by-frequency](https://github.com/marwan130/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## String
 |  |
