@@ -13,6 +13,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/marwan130/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0777-toeplitz-matrix](https://github.com/marwan130/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/marwan130/Leetcode/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/marwan130/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0948-sort-an-array](https://github.com/marwan130/Leetcode/tree/master/0948-sort-an-array) |
 | [1127-last-stone-weight](https://github.com/marwan130/Leetcode/tree/master/1127-last-stone-weight) |
 | [1706-min-cost-to-connect-all-points](https://github.com/marwan130/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
@@ -75,6 +76,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/marwan130/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/marwan130/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0792-binary-search](https://github.com/marwan130/Leetcode/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/marwan130/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Binary Tree
 |  |
 | ------- |
