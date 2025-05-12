@@ -5,6 +5,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/marwan130/Leetcode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/marwan130/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/marwan130/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0054-spiral-matrix](https://github.com/marwan130/Leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/marwan130/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/marwan130/Leetcode/tree/master/0075-sort-colors) |
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/marwan130/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/marwan130/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/marwan130/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/marwan130/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0792-binary-search](https://github.com/marwan130/Leetcode/tree/master/0792-binary-search) |
