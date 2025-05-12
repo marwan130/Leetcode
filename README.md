@@ -11,6 +11,7 @@
 | [0075-sort-colors](https://github.com/marwan130/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/marwan130/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/marwan130/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0493-reverse-pairs](https://github.com/marwan130/Leetcode/tree/master/0493-reverse-pairs) |
 | [0777-toeplitz-matrix](https://github.com/marwan130/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/marwan130/Leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/marwan130/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -34,6 +35,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/marwan130/Leetcode/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/marwan130/Leetcode/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -45,6 +47,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/marwan130/Leetcode/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/marwan130/Leetcode/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -74,6 +77,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/marwan130/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/marwan130/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/marwan130/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0493-reverse-pairs](https://github.com/marwan130/Leetcode/tree/master/0493-reverse-pairs) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/marwan130/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0792-binary-search](https://github.com/marwan130/Leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/marwan130/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -119,4 +123,16 @@
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/marwan130/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/marwan130/Leetcode/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/marwan130/Leetcode/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/marwan130/Leetcode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
