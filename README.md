@@ -23,6 +23,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/marwan130/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/marwan130/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/marwan130/Leetcode/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
@@ -106,6 +107,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/marwan130/Leetcode/tree/master/0125-valid-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/marwan130/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Simulation
 |  |
