@@ -101,6 +101,7 @@
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/marwan130/Leetcode/tree/master/0147-insertion-sort-list) |
+| [0206-reverse-linked-list](https://github.com/marwan130/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Matrix
 |  |
 | ------- |
@@ -152,4 +153,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/marwan130/Leetcode/tree/master/0053-maximum-subarray) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/marwan130/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
