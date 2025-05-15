@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/marwan130/Leetcode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/marwan130/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/marwan130/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/marwan130/Leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/marwan130/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/marwan130/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/marwan130/Leetcode/tree/master/0055-jump-game) |
@@ -95,6 +96,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/marwan130/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/marwan130/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/marwan130/Leetcode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/marwan130/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0493-reverse-pairs](https://github.com/marwan130/Leetcode/tree/master/0493-reverse-pairs) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/marwan130/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
