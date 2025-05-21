@@ -17,8 +17,8 @@ public:
         return first;
     }
 
-    int findLast(vector<int>& nums, int target) {
-        int left = 0, right = nums.size() - 1, last = -1;
+    int findSecond(vector<int>& nums, int target) {
+        int left = 0, right = nums.size() - 1, second = -1;
         while(left <= right) {
             int mid = left + (right - left) / 2;
             if(nums[mid] <= target) {
@@ -28,19 +28,21 @@ public:
                 right = mid - 1;
             }
             if(nums[mid] == target) {
-                last = mid;
+                second = mid;
             }
         }
-        return last;
+        return second;
     }
-
     vector<int> searchRange(vector<int>& nums, int target) {
         if(nums.empty()) {
             return {-1, -1};
         }
+        else {
         int first = findFirst(nums, target);
-        int last = findLast(nums, target);
+        int second = findSecond(nums, target);
+        
+        return {first, second};
+        }
 
-        return {first, last};
     }
 };
