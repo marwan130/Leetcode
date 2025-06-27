@@ -124,11 +124,13 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/marwan130/Leetcode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/marwan130/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0347-top-k-frequent-elements](https://github.com/marwan130/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/marwan130/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/marwan130/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/marwan130/Leetcode/tree/master/0125-valid-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/marwan130/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Simulation
@@ -178,4 +180,8 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/marwan130/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/marwan130/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/marwan130/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
