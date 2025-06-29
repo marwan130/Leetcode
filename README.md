@@ -36,6 +36,7 @@
 | [0075-sort-colors](https://github.com/marwan130/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/marwan130/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/marwan130/Leetcode/tree/master/0125-valid-palindrome) |
+| [0295-find-median-from-data-stream](https://github.com/marwan130/Leetcode/tree/master/0295-find-median-from-data-stream) |
 ## Sorting
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 | [0147-insertion-sort-list](https://github.com/marwan130/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/marwan130/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/marwan130/Leetcode/tree/master/0217-contains-duplicate) |
+| [0295-find-median-from-data-stream](https://github.com/marwan130/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/marwan130/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/marwan130/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/marwan130/Leetcode/tree/master/0948-sort-an-array) |
@@ -61,6 +63,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/marwan130/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/marwan130/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/marwan130/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/marwan130/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/marwan130/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -94,6 +97,7 @@
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/marwan130/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/marwan130/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -113,6 +117,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/marwan130/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/marwan130/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Linked List
 |  |
