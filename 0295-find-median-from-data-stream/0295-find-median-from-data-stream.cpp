@@ -4,10 +4,24 @@ private:
 public:
     MedianFinder() {
     }
+
+    int findPosition(vector<double>& arr, int num) {
+        int left = 0, right = arr.size();
+        while(left < right) {
+            int medium = left + (right - left) / 2;
+            if(arr[medium] < num) {
+                left = medium + 1;
+            }
+            else {
+                right = medium;
+            }
+        }
+        return left;
+    }
     
     void addNum(int num) {
-        auto pos = lower_bound(medianFinder.begin(), medianFinder.end(), num);
-        medianFinder.insert(pos, num);
+        int pos = findPosition(medianFinder, num);
+        medianFinder.insert(medianFinder.begin() + pos, num);
     }
     
     double findMedian() {
