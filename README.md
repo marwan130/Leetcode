@@ -143,6 +143,7 @@
 | [0049-group-anagrams](https://github.com/marwan130/Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/marwan130/Leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/marwan130/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/marwan130/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/marwan130/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## String
 |  |
@@ -151,6 +152,7 @@
 | [0020-valid-parentheses](https://github.com/marwan130/Leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/marwan130/Leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/marwan130/Leetcode/tree/master/0125-valid-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/marwan130/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/marwan130/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Simulation
 |  |
@@ -206,6 +208,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/marwan130/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/marwan130/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 ## Math
 |  |
 | ------- |
