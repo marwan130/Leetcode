@@ -104,6 +104,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/marwan130/Leetcode/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/marwan130/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/marwan130/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
@@ -225,6 +226,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/marwan130/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/marwan130/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/marwan130/Leetcode/tree/master/0155-min-stack) |
 ## Monotonic Stack
 |  |
 | ------- |
