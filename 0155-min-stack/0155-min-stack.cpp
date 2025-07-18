@@ -1,7 +1,7 @@
 class MinStack {
 private: 
-    vector<int> data;
-    vector<int> minStack;
+vector<int> data; 
+vector<int> minStack;
 public:
     MinStack() {
         
