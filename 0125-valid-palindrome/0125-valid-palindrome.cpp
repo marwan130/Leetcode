@@ -7,15 +7,16 @@ public:
             while(left < right && !isalnum(s[left])) {
                 left++;
             }
+
             while(left < right && !isalnum(s[right])) {
                 right--;
-            } 
+            }
 
             if(tolower(s[left]) != tolower(s[right])) {
                 return false;
             }
-            right--;
             left++;
+            right--;
         }
         return true;
     }
