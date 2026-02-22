@@ -58,6 +58,7 @@
 | [0147-insertion-sort-list](https://github.com/marwan130/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/marwan130/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/marwan130/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/marwan130/Leetcode/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/marwan130/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/marwan130/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/marwan130/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -150,6 +151,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/marwan130/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/marwan130/Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/marwan130/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/marwan130/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/marwan130/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/marwan130/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/marwan130/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -161,6 +163,7 @@
 | [0020-valid-parentheses](https://github.com/marwan130/Leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/marwan130/Leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/marwan130/Leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/marwan130/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/marwan130/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/marwan130/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/marwan130/Leetcode/tree/master/0451-sort-characters-by-frequency) |
