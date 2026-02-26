@@ -34,6 +34,7 @@
 | [0948-sort-an-array](https://github.com/marwan130/Leetcode/tree/master/0948-sort-an-array) |
 | [1127-last-stone-weight](https://github.com/marwan130/Leetcode/tree/master/1127-last-stone-weight) |
 | [1706-min-cost-to-connect-all-points](https://github.com/marwan130/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/marwan130/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 | [0283-move-zeroes](https://github.com/marwan130/Leetcode/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/marwan130/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/marwan130/Leetcode/tree/master/0344-reverse-string) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/marwan130/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Sorting
 |  |
 | ------- |
@@ -64,6 +66,7 @@
 | [0347-top-k-frequent-elements](https://github.com/marwan130/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/marwan130/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/marwan130/Leetcode/tree/master/0948-sort-an-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/marwan130/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -157,6 +160,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/marwan130/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/marwan130/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/marwan130/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/marwan130/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## String
 |  |
 | ------- |
