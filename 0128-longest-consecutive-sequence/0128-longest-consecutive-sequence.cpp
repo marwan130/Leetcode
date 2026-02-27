@@ -4,21 +4,21 @@ public:
         unordered_map<int, int> mp;
         int res = 0;
 
-        for (int n : nums) {
-            if (mp.find(n) != mp.end()) continue;
+        for(int num : nums) {
+            if(mp.contains(num)) {
+                continue;
+            }
 
-            int left = mp.count(n - 1) ? mp[n - 1] : 0;
-            int right = mp.count(n + 1) ? mp[n + 1] : 0;
+            int left = mp.count(num - 1) ?  mp[num - 1] : 0;
+            int right = mp.count(num + 1) ? mp[num + 1] : 0;
 
             int sum = left + right + 1;
-            mp[n] = sum; 
-
+            mp[num] = sum;
             res = max(res, sum);
 
-            mp[n - left] = sum;
-            mp[n + right] = sum;
+            mp[num - left] = sum;
+            mp[num + right] = sum;
         }
-
         return res;
     }
 };
