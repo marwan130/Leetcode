@@ -5,21 +5,17 @@ public:
             return false;
         }
 
-        unordered_map<char, int> ransom;
-        unordered_map<char, int> maga;
-
-        for(char c : ransomNote) {
-            ransom[c]++;
-        }
+        unordered_map<char, int> freq;
 
         for(char c : magazine) {
-            maga[c]++;
+            freq[c]++;
         }
 
         for(char c : ransomNote) {
-            if(ransom[c] > maga[c]) {
+            if(freq[c] == 0) {
                 return false;
             }
+            freq[c]--;
         }
         return true;
     }
