@@ -1,22 +1,19 @@
 class Solution {
 public:
     bool canConstruct(string ransomNote, string magazine) {
-        if(ransomNote.size() > magazine.size()) {
-            return false;
+        int count[26] = {0};
+        
+        for (char c : magazine) {
+            count[c - 'a']++;
         }
-
-        unordered_map<char, int> freq;
-
-        for(char c : magazine) {
-            freq[c]++;
-        }
-
-        for(char c : ransomNote) {
-            if(freq[c] == 0) {
+        
+        for (char c : ransomNote) {
+            if (count[c - 'a'] == 0) {
                 return false;
             }
-            freq[c]--;
+            count[c - 'a']--;
         }
+        
         return true;
     }
 };
