@@ -7,25 +7,19 @@ public:
             freq[c]++;
         }
 
-        vector<pair<char, int>> vec(freq.begin(), freq.end());
+        vector<vector<char>> bucket(s.size() + 1);
 
-        int n = vec.size();
-        int max_ptr;
-        for(int i = 0; i < n; i++) {
-            max_ptr = i;
-            for(int j = i + 1; j < n; j++) {
-                if(vec[j].second > vec[max_ptr].second) {
-                    max_ptr = j;
-                }
+        for(const auto& pair : freq) {
+            bucket[pair.second].push_back(pair.first);
+        }
+
+        string res = "";
+
+        for(int i = s.size(); i >= 0; i--) {
+            for(char c : bucket[i]) {
+                res += string(i, c);
             }
-            swap(vec[i], vec[max_ptr]);
         }
-
-        string res;
-        for(auto& p : vec) {
-            res.append(p.second, p.first);
-        }
-        
         return res;
     }
 };
