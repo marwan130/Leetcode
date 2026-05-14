@@ -5,16 +5,17 @@ public:
             return false;
         }
 
-        unordered_map<char, int> map1;
-        unordered_map<char, int> map2;
+        unordered_map<char, int> sFreq;
+        unordered_map<char, int> tFreq;
 
-        for(char ch : s) {
-            map1[ch]++;
+        for(char c : s) {
+            sFreq[c]++;
         }
 
-        for(char ch : t) {
-            map2[ch]++;
+        for(char c : t) {
+            tFreq[c]++;
         }
-        return map1 == map2;
+
+        return sFreq == tFreq;
     }
 };
